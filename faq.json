@@ -1,5 +1,5 @@
 [
   { "id": 1, "question": "What is Interstellar?", "answer": "Interstellar is a powerful hvh lua script for gamesense.pub/skeet.cc", "expanded": false },
-  { "id": 2, "question": "Can I get a free trial?", "answer": "At the moment, we dont offer free trials for people", "expanded": false },
+  { "id": 2, "question": "Can I get a free trial?", "answer": "At the moment, we dont offer free trials to anyone", "expanded": false },
   { "id": 3, "question": "Can I get a media deal?", "answer": "Please join our discord, and make a ticket regarding media deal.", "expanded": false }
 ]
